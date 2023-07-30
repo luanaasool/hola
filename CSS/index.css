@@ -1,0 +1,184 @@
+.a03{
+    font-family: 'Bebas Neue', sans-serif;
+    background-color: #FC7300;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.titulo{
+    
+    width: 200px;
+    margin-left: 350px;
+    color: #00425a;
+    background-color: #EFF5F5;
+}
+
+.contacto {
+    width: 200px;
+    color: #00425a;
+    background-color: #EFF5F5;
+
+
+}
+
+a{
+    color: #00425a;
+}
+
+
+header{
+    display: flex;
+    height: 200px;
+    background-color:#1F8A70 ;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    text-align: center;
+    background-image:url(../FOTOS/titulo.webp);
+    max-width: 1000px;
+    width: 100%;
+}
+
+
+.a04{
+    background-color:#181823;
+    border-radius: 20px;
+    color: #EFF5F5;
+    width: 100%;
+    text-align: center;
+   
+}
+
+h2{
+text-align: center;
+}
+
+.quienessomos{
+    display: flex;
+    justify-content: end;
+    border-radius: 20px;
+}
+
+
+footer{
+    background-color: #1F8A70;
+     height: 200px;
+     
+   
+}
+
+
+
+
+.box{
+    width: 200px;
+    height: 200px;
+    border: 3px solid #1F8A70;
+    background-color: #181823;
+}
+
+
+
+.noticias{
+    display:flex;
+    justify-content: center; 
+    margin-right: 25px;
+    
+}
+
+.p1{
+    width: 100%;
+}
+
+.propuesta{
+    display: flex;
+    justify-content: center;
+    border-radius: 30px;
+}
+
+.q1{
+    width: 400px;
+}
+
+.b01{
+    background-color: #EFF5F5;
+    text-align: center;
+    margin-right: 100px;
+}
+
+.footer1{
+    text-align: left;
+    width: auto;
+    height:auto;
+    margin-right: auto;
+    margin-left: auto;
+}
+.footer2{
+    text-align: center;
+    width: auto;
+    height: auto;
+    margin: center;
+    
+}
+.footer3{
+    text-align: right;
+    width:auto;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.a09{
+    display: flex;
+    
+}
+
+.contenedor{
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+main{
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+   
+}
+
+@media screen and (max-width:1000px) and (min-width:768px){
+   .contenedor{
+    width: 100%;
+    
+   }
+
+}
+
+@media screen and (max-width:1000px) and (min-width:320px){
+    .contenedor{
+     width: 100%;
+     
+    }
+ }
+
+
+
+
+   
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
